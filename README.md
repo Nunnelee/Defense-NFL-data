@@ -11,4 +11,4 @@ This competition uses NFL’s Next Gen Stats data, which includes the position a
 * Is there anything about a player – for example, their height, weight, experience, speed, or position – that can be used to predict their performance on defense?
 * What does data tell us about defending the pass play?
 
-# Lot's of information to EDA. In this project, you have to create your own Target with the data available.
+## Lot's of information to EDA. In this project, you have to create your own Target with the data available.
